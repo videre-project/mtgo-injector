@@ -25,6 +25,12 @@
       "commands": [
         "nbgv"
       ]
+    },
+    "docfx": {
+      "version": "2.77.0",
+      "commands": [
+        "docfx"
+      ]
     }
   }
 }
